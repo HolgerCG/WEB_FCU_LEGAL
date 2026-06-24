@@ -36,9 +36,8 @@ fcu-legal-web/
 
 - Textos principales: editar `index.html`.
 - Colores, espaciados y estilos: editar `assets/css/styles.css`.
-- Numero de WhatsApp: buscar `593969341483` en `index.html` y `assets/js/main.js`.
-- Correo: buscar `fcenteno84@hotmail.com` en `index.html`.
-- Dirección: buscar `Guido Urbina y S7` en `index.html`.
+- Botón de WhatsApp: actualizar el enlace `wa.me` en `index.html` y `assets/js/main.js`.
+- Dirección visible: buscar `Quito - Ecuador` en `index.html`.
 - Foto del abogado en el hero: reemplazar `assets/img/abogado-francisco-centeno-cutout.png` manteniendo el mismo nombre.
 - Foto original del abogado: `assets/img/abogado-francisco-centeno.jpg`.
 - Fondo del hero: reemplazar `assets/img/fondo-biblioteca-legal.png` manteniendo el mismo nombre.
