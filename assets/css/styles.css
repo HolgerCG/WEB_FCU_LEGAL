@@ -340,10 +340,10 @@ textarea {
 }
 
 .trust-row {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 18px 24px;
-  max-width: 900px;
+  display: grid;
+  grid-template-columns: repeat(2, minmax(260px, 1fr));
+  gap: 18px 26px;
+  max-width: 660px;
   margin: 32px 0 26px;
 }
 
@@ -352,27 +352,21 @@ textarea {
   grid-template-columns: 34px 1fr;
   align-items: center;
   gap: 10px;
-  width: max-content;
-  min-width: 136px;
+  min-width: 0;
   font-family: Arial, Helvetica, sans-serif;
-  font-size: 12px;
+  font-size: 12.5px;
   font-weight: 700;
-  line-height: 1.28;
+  line-height: 1.35;
   text-transform: uppercase;
 }
 
 .trust-label {
   display: block;
   min-width: 0;
-  max-width: none;
   overflow-wrap: normal;
   word-break: normal;
   hyphens: none;
-}
-
-.trust-label span {
-  display: block;
-  white-space: nowrap;
+  white-space: normal;
 }
 
 .trust-item svg,
