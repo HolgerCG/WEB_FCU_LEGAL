@@ -1,6 +1,6 @@
-﻿# FCU Legal Web
+﻿# Proyecto Legal Web
 
-Sitio web estático para FCU Legal, listo para publicarse con GitHub Pages. No requiere backend, base de datos ni frameworks.
+Sitio web estático para WEB - Legal, listo para publicarse con GitHub Pages. No requiere backend, base de datos ni frameworks. Se considera tambien el uso de CODEX para correcciones del html, asi mismo para estructura de imagenes y demas.
 
 ## Estructura
 
