@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="118" viewBox="0 0 300 118" role="img" aria-labelledby="title desc">
+  <title id="title">FCU Legal</title>
+  <desc id="desc">Logo tipografico de FCU Legal con balanza dorada.</desc>
+  <rect width="300" height="118" fill="none"/>
+  <g fill="none" stroke="#d6a64a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M55 20v64"/>
+    <path d="M37 84h36"/>
+    <path d="M46 20h18"/>
+    <path d="M55 28 26 40"/>
+    <path d="M55 28 84 40"/>
+    <path d="M26 40 15 67h22L26 40Z"/>
+    <path d="M84 40 73 67h22L84 40Z"/>
+    <path d="M19 67c3 8 11 12 18 0"/>
+    <path d="M77 67c3 8 11 12 18 0"/>
+  </g>
+  <text x="112" y="55" fill="#ffffff" font-family="Georgia, 'Times New Roman', serif" font-size="45" font-weight="700" letter-spacing="2">FCU</text>
+  <path d="M109 78h58" stroke="#d6a64a" stroke-width="2"/>
+  <path d="M232 78h45" stroke="#d6a64a" stroke-width="2"/>
+  <text x="173" y="84" fill="#ffffff" font-family="Georgia, 'Times New Roman', serif" font-size="18" letter-spacing="8">LEGAL</text>
+</svg>
